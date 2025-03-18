@@ -1,4 +1,4 @@
-# Computer Vision Basics
+# What the Code is about
 
 
 The code implements some core and fundamental algorithms for computer vision.
