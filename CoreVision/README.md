@@ -1,4 +1,4 @@
-# What the Code is about
+# CoreVision
 
 
 The code implements some core and fundamental algorithms for computer vision.
